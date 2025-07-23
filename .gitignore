@@ -10,6 +10,12 @@ node_modules/
 # Development
 .cache/
 
+# Documentation files (keep local only)
+*.md
+IMPLEMENTATION_COMPLETE.md
+README.md
+docs/
+
 # Environment variables
 .env
 .env.local
